@@ -1,6 +1,6 @@
 body{
     background-color: blueviolet;
-    color: cadetblue;
+    color: white;
 }
 a{
     color: cadetblue;
@@ -16,6 +16,9 @@ a:hover{
     text-decoration: none;
     text-align: center;
     margin-bottom: 20px;
+}
+div:a{
+    color:white;
 }
 head{
     border: 2px solid skyblue;
